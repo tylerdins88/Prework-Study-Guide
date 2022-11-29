@@ -1,6 +1,10 @@
 # Prework Study Guide Webpage
 
-## This is an aid to help students learning how to code. It is intended for anyone wanting to learn the basics of coding. It contains important terms and condenses down large amounts of information to a organized resource. 
+This is an aid to help students learning how to code. It is intended for anyone wanting to learn the basics of coding. It contains important terms and condenses down large amounts of information to a organized resource. 
+
+The Deployed page is as follows: 
+
+https://tylerdins88.github.io/prework-study-guide/
 
 ## Installation
 
